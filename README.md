@@ -12,7 +12,8 @@ $ tar -xf lfwa.tar
 
 ###View male and female files
 >Run the python script as below, and the generated two folds 
-(male and female) contain categorized images used in our experiments.
+>(male and female) contain categorized images used in our experiments.
+
 ```javascript
 $ python make.py
 ```
